@@ -17,7 +17,7 @@ const About: NextPage = () => {
   return (
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
-        I am currently pursuing BE(Third Year) in Computer
+        I am currently pursuing BE(Final Year) in Computer
         Engineering from Thakur College of Engineering and Technology.
       </h6>
       <div
