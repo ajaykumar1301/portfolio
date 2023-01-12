@@ -143,7 +143,7 @@ export const projects: IProject[] = [
   {
     id: 3,
     name: "facebook-clone",
-    image_path: "/images/portfolio.png",
+    image_path: "/images/facebook.png",
     deployed_url: "https://github.com/ajaykumar1301/facebookcloneservice",
     github_url: "https://github.com/ajaykumar1301/facebook-clone",
     category: ["Java", "spring"],
