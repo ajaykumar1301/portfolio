@@ -24,14 +24,17 @@ const Resume = () => {
             </p>
           </div>
         </motion.div>
-        {/* <div>
+         <div>
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Software Developer Jr.</h5>
-            <p className="font-semibold">Tata Consultancy Services</p>
-            <p className="my-3">I don't know why I am doing this job</p>
+            <h5 className="my-2 text-xl font-bold">FullStack Developer</h5>
+            <p className="font-semibold">Caarya Solutions Pvt Ltd</p>
           </div>
-        </div> */}
+           <div className="">
+            <h5 className="my-2 text-xl font-bold">FrontEnd Developer</h5>
+            <p className="font-semibold">Project 42 Labs</p>
+          </div>
+        </div> 
       </div>
 
       {/*Languages & Tools */}
