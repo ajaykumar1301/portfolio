@@ -146,7 +146,7 @@ export const projects: IProject[] = [
     image_path: "/images/portfolio.png",
     deployed_url: "https://github.com/ajaykumar1301/facebookcloneservice",
     github_url: "https://github.com/ajaykumar1301/facebook-clone",
-    category: ["Java", "Spring"],
+    category: ["Java", "spring"],
     description:
       "Interactive and responsive facebook clone websites with advanced features",
     key_techs: ["Spring", "NextJS", "Redux","Tailwind"],
