@@ -47,18 +47,18 @@ export const services: Service[] = [
 export const languages: Skill[] = [
   {
     Icon: BsCircleFill,
-    name: "C++",
-    level: "60",
+    name: "Core Java",
+    level: "100",
   },
   {
     Icon: BsCircleFill,
     name: "JavaScript",
-    level: "70",
+    level: "75",
   },
   {
     Icon: BsCircleFill,
-    name: "Core Java",
-    level: "100",
+    name: "Spring",
+    level: "65",
   },
   {
     Icon: BsCircleFill,
@@ -139,5 +139,16 @@ export const projects: IProject[] = [
     description:
       "Interactive and responsive portfolio websites with advanced features",
     key_techs: ["Next", "Framer", "Node", "Express", "Tailwind"],
+  },
+  {
+    id: 3,
+    name: "facebook-clone",
+    image_path: "/images/portfolio.png",
+    deployed_url: "https://github.com/ajaykumar1301/facebookcloneservice",
+    github_url: "https://github.com/ajaykumar1301/facebook-clone",
+    category: ["Java", "Spring"],
+    description:
+      "Interactive and responsive facebook clone websites with advanced features",
+    key_techs: ["Spring", "NextJS", "Redux","Tailwind"],
   },
 ];
